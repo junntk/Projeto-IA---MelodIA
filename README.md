@@ -1,5 +1,12 @@
 # MelodIA
 
+Integrantes 
+- Arthur Santos Afonso Ferreira – RA: 10381332
+- Ian Theodoro Campanhã – RA: 10381723
+- Kenny Jun Takahashi  – RA: 10396373
+- Yuri Nichimura Alves - RA: 10401701
+
+
 Este projeto tem como objetivo desenvolver um sistema de recomendação de músicas utilizando técnicas de Machine Learning e dados obtidos por meio da API oficial do Spotify.
 
 ---
