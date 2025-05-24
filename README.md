@@ -1,8 +1,7 @@
-# MelodIA
+# MelodIA: Um sistema de recomendação de músicas baseado nos gostos dos usuários
 
 Integrantes 
 - Arthur Santos Afonso Ferreira – RA: 10381332
-- Ian Theodoro Campanhã – RA: 10381723
 - Kenny Jun Takahashi  – RA: 10396373
 - Yuri Nichimura Alves - RA: 10401701
 
@@ -57,6 +56,3 @@ As principais atividades desenvolvidas foram:
 
 ---
 
-## Próximos Passos
-
-A próxima etapa consistirá no desenvolvimento de um sistema de recomendação, que utilizará os dados tratados e normalizados para sugerir músicas semelhantes com base nas preferências do usuário.
