@@ -1,7 +1,6 @@
 # MelodIA: Um sistema de recomendação de músicas baseado nos gostos dos usuários
 
 Integrantes 
-- Arthur Santos Afonso Ferreira – RA: 10381332
 - Kenny Jun Takahashi  – RA: 10396373
 - Yuri Nichimura Alves - RA: 10401701
 
@@ -16,10 +15,8 @@ Este projeto tem como objetivo desenvolver um sistema de recomendação de músi
 
 O arquivo `spotify_anonimizado.csv` foi gerado a partir das músicas salvas por um usuário em sua biblioteca do Spotify, por meio da API. As seguintes características musicais foram extraídas:
 
-- `track_id`: ID da música no Spotify  
 - `track_name`: Nome da música  
-- `artist`: Nome do artista  
-- `duration_ms`: Duração da música em milissegundos  
+- `artist`: Nome do artista   
 - `danceability`: Grau de dançabilidade da música  
 - `energy`: Intensidade percebida da faixa  
 - `speechiness`: Presença de palavras faladas  
@@ -28,7 +25,7 @@ O arquivo `spotify_anonimizado.csv` foi gerado a partir das músicas salvas por 
 - `liveness`: Indicação de performance ao vivo  
 - `valence`: Grau de positividade emocional  
 - `tempo`: BPM (batidas por minuto)  
-- `user_anon_id`: Identificador anônimo do usuário  
+
 
 Observação: Nenhuma informação pessoal foi mantida no dataset. Todos os dados foram devidamente anonimizados.
 
