@@ -48,8 +48,13 @@ As principais atividades desenvolvidas foram:
 ## Estrutura dos Scripts
 
 - `scripts/coleta_dados.py`: Script responsável pela autenticação e extração dos dados via API do Spotify  
-- `scripts/analise_dados.py`: Script contendo a análise exploratória dos dados  
-- `dataset/spotify_anonimizado.csv`: Arquivo CSV contendo os dados extraídos e tratados  
+- `scripts/analise_dados.py`: Script contendo a análise exploratória dos dados
+- `scripts/recomendacao_knn.py`: Script que implementa o algoritmo K-Nearest Neighbors (KNN) para gerar recomendações de músicas com base em similaridade acústica.
+- `dataset/spotify_anonimizado.csv`: Arquivo CSV contendo os dados extraídos e tratados
+  
 
 ---
 
+## Sistema de Recomendação com Machine Learning
+
+Nesta segunda etapa do projeto, foi implementado um sistema de recomendação utilizando o algoritmo K-Nearest Neighbors (KNN), que sugere músicas com base na similaridade entre suas características sonoras.
