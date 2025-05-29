@@ -1,7 +1,5 @@
 """
-Membros do Grupo: 
-- Arthur Santos Afonso Ferreira – RA: 10381332
-- Ian Theodoro Campanhã – RA: 10381723
+Membros do Grupo:
 - Kenny Jun Takahashi  – RA: 10396373
 - Yuri Nichimura Alves - RA: 10401701
 
@@ -29,7 +27,7 @@ from sklearn.preprocessing import StandardScaler
 sns.set(style='whitegrid')
 
 #Carrega o dataset
-df = pd.read_csv('../dataset/spotify_anonimizado.csv')
+df = pd.read_csv('spotify_anonimizado.csv')
 print(df.head())
 
 #Estatísticas descritivas
